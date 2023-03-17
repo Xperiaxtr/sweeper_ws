@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "sweeper_ws",
+			"path": "sweeper_ws"
+		}
+	],
+	"settings": {}
+}
